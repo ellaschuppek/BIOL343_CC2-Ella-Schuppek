@@ -50,3 +50,5 @@ rsconnect/
 
 # positpal recording files
 .capture/
+
+positpal-watcher.log
